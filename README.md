@@ -41,7 +41,9 @@ Step 4 : Test for the XOR patterns.
 Developed By: JANARTHANAN V K
 Reg No: 212222230051
 ```
+
 ```PYTHON
+
 import numpy as np
 import pandas as pd
 import io
